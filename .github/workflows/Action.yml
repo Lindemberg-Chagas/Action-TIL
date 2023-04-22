@@ -3,7 +3,7 @@ name: action-TIL-Serve
 on:
   push:
     branches: 
-      - action, main
+      - action
 
 jobs:
   build:
